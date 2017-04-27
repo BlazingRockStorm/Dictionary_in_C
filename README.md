@@ -5,7 +5,7 @@ Author:
 
 - Nghiem Thi Tra My
 - Tran Huu Ngoc
-- Hoang Duc Quan
+- Hoang Duc Quan (Project Management)
 - Do Thi Hong Diep
 - Ngoc Anh
 - Nguyen Huy
