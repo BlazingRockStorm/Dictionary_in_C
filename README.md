@@ -1,5 +1,6 @@
 # Dictionary_in_C
 Project in C and GTK3
+
 Author:
 
 - Nghiem Thi Tra My
